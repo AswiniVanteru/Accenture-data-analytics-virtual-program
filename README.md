@@ -85,7 +85,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  **Make the PowerPoint presentation as per the given template**
 
  ## Certificate:
-[Certificate of Completion](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Internship_completion_certificate_Shaikh_Minhaj.pdf)
+[Certificate of Completion](file:///C:/Users/aswin/Downloads/SQL%20exercise/Accenture%20virtual%20program/Accenture%201727673514718_completion_certificate.pdf)
  
 
 ## Tags:
